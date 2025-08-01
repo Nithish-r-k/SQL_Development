@@ -3,13 +3,7 @@
 **#🛒 E-Commerce SQL Database Project**
 
 
-
 This project simulates a backend database for an e-commerce platform, built using MySQL. It covers complete SQL development from schema design and sample data insertion to business logic queries, stored procedures, triggers, and query optimization.
-
-
-
-
-
 
 
 **## 📁 Project Structure**
